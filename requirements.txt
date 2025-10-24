@@ -1,0 +1,9 @@
+FastAPI
+uvicorn
+python-multipart
+pydantic
+sqlalchemy
+databases
+passlib[bcrypt]
+email-validator
+httpx
